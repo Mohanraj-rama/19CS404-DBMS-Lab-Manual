@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## NAME : ABHEEK A
-## REGISTRATION NUMBER : 212224100001
+## NAME : MOHANRAJ R
+## REGISTRATION NUMBER : 212224230169
 
 ## AIM
 To study and implement subqueries and views.
